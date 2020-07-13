@@ -1,0 +1,53 @@
+[33mcommit e558c93793646e0ddff4138d0d55cff4a1ff7b40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Michael <michael_hawkins@pacbell.net>
+Date:   Sun Jul 12 18:54:34 2020 -0700
+
+    'test
+
+[33mcommit d9b5cbf2109965cb5ccad1a0bfe36f55284ef7f4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thebluehawk707 <michael_hawkins@pacbell.net>
+Date:   Fri Jul 10 14:44:13 2020 -0700
+
+    need to fix sin function and optimize code
+
+[33mcommit 61498769178a2e06784d7601735b689bb9b98526[m
+Author: Thebluehawk707 <michael_hawkins@pacbell.net>
+Date:   Fri Jul 10 13:40:16 2020 -0700
+
+    need to add sine and optimize code
+
+[33mcommit b9a383ccbe4389cb57c0716e81c030d0a8f54e45[m
+Author: Thebluehawk707 <michael_hawkins@pacbell.net>
+Date:   Fri Jul 10 11:25:20 2020 -0700
+
+    need to add sine function then optimize code
+
+[33mcommit 79aaf992ec993b3f54f5591930ac3843716d6e80[m
+Author: Michael <michael_hawkins@pacbell.net>
+Date:   Fri Jul 10 10:18:09 2020 -0700
+
+    need to fix pulse graph
+
+[33mcommit 43f239ffb298c98489f84750a958700d8d20fb63[m
+Author: Michael <michael_hawkins@pacbell.net>
+Date:   Fri Jul 10 10:15:04 2020 -0700
+
+    added compatability file
+
+[33mcommit f545fe456bafe0003b0f9a981f11cf3dff80fb93[m
+Author: Michael <michael_hawkins@pacbell.net>
+Date:   Thu Jul 9 23:28:50 2020 -0700
+
+    need to do Sine Function and optimize code
+
+[33mcommit 8934581ebc58d08767000bfb96cdfc2f13dfa1bd[m
+Author: Michael <michael_hawkins@pacbell.net>
+Date:   Thu Jul 9 21:58:16 2020 -0700
+
+    need to add sawtooth and sine
+
+[33mcommit 0c6dc181dbce1937948993c331e1ef7bca818d58[m
+Author: Michael <michael_hawkins@pacbell.net>
+Date:   Thu Jul 9 18:31:44 2020 -0700
+
+    First commit
